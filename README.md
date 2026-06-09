@@ -1,3 +1,4 @@
+
 # braille-quiz
 
 ##概要
@@ -18,4 +19,14 @@ GUIアプリケーション開発や入力処理の学習も兼ねています�
 - DxLib
 - Visual Studio
 
+## 苦労した点
+
+- 点字の座標管理
+- マウス入力判定
+- 点字パターンと入力の比較処理
+- コード量増加への対応
+
+## 実行画面
+
+<img width="1872" height="1044" alt="スクリーンショット 2026-06-09 112243" src="https://github.com/user-attachments/assets/dc48ce8c-d5b2-4913-a27a-904cc9b09b50" />
 
